@@ -16,7 +16,10 @@ from scraper import GETJobEngine
 
 logger = logging.getLogger(__name__)
 
-SEEN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen_jobs.json")
+# On Railway, mount a volume and set GET_DATA_DIR=/data so seen_jobs.json
+# persists across redeploys. Defaults to the project directory locally.
+DATA_DIR = os.environ.get("GET_DATA_DIR", os.path.dirname(os.path.abspath(__file__)))
+SEEN_FILE = os.path.join(DATA_DIR, "seen_jobs.json")
 SOURCES_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources.json")
 
 
