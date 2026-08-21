@@ -1,0 +1,90 @@
+{
+  "workday_sites": [
+    {"name": "Visa", "slug": "visa", "subdomain": "wd5", "site_path": "Visa"},
+    {"name": "Workday", "slug": "workday", "subdomain": "wd5", "site_path": "Workday"},
+    {"name": "Allegion", "slug": "allegion", "subdomain": "wd5", "site_path": "careers"},
+    {"name": "Zoom", "slug": "zoom", "subdomain": "wd5", "site_path": "Zoom"},
+    {"name": "Elanco", "slug": "elanco", "subdomain": "wd5", "site_path": "External_Career"},
+    {"name": "Momentive", "slug": "communitybrands", "subdomain": "wd1", "site_path": "Momentive_External_Careers"},
+    {"name": "CDK Global", "slug": "cdk", "subdomain": "wd1", "site_path": "CDK"},
+    {"name": "Litera", "slug": "litera", "subdomain": "wd12", "site_path": "Litera_Careers"},
+    {"name": "Harris Computer", "slug": "harriscomputer", "subdomain": "wd3", "site_path": "1"},
+    {"name": "Maersk", "slug": "maersk", "subdomain": "wd3", "site_path": "Maersk_Manual"},
+    {"name": "MRI Software", "slug": "mrisoftware", "subdomain": "wd501", "site_path": "External_CareerSite"},
+    {"name": "ModMed", "slug": "modmed", "subdomain": "wd501", "site_path": "ModMed12"},
+    {"name": "Premier Inc", "slug": "premierinc", "subdomain": "wd1", "site_path": "External_Professional"}
+  ],
+  "greenhouse_companies": [
+    {"name": "Groww", "board": "groww"},
+    {"name": "Slice", "board": "slice"},
+    {"name": "Postman", "board": "postman"},
+    {"name": "PhonePe", "board": "phonepe"},
+    {"name": "Druva", "board": "druva"},
+    {"name": "Observe.AI", "board": "observeai"},
+    {"name": "Instawork", "board": "instawork"},
+    {"name": "Airtable", "board": "airtable"},
+    {"name": "Scale AI", "board": "scaleai"},
+    {"name": "Databricks", "board": "databricks"},
+    {"name": "Figma", "board": "figma"},
+    {"name": "Stripe", "board": "stripe"},
+    {"name": "Coinbase", "board": "coinbase"},
+    {"name": "Robinhood", "board": "robinhood"},
+    {"name": "Flexport", "board": "flexport"},
+    {"name": "Asana", "board": "asana"},
+    {"name": "Webflow", "board": "webflow"},
+    {"name": "Vercel", "board": "vercel"}
+  ],
+  "lever_companies": [
+    {"name": "Meesho", "board": "meesho"},
+    {"name": "CRED", "board": "cred"},
+    {"name": "Mindtickle", "board": "mindtickle"},
+    {"name": "Netomi", "board": "netomi"}
+  ],
+  "smartrecruiters_companies": [
+    {"name": "Bosch India", "board": "BoschGroup"},
+    {"name": "Airtel Africa", "board": "Airtel"},
+    {"name": "Delivery Hero", "board": "DeliveryHero"}
+  ],
+  "ashby_companies": [
+    {"name": "Ramp", "board": "Ramp"},
+    {"name": "Neon", "board": "Neon"}
+  ],
+  "india_portals": [
+    {"name": "Internshala", "url": "https://internshala.com/jobs/keywords-graduate-engineer-trainee/", "label": "Internshala GET jobs"},
+    {"name": "Freshersworld", "url": "https://www.freshersworld.com/jobs/search?query=graduate+engineer+trainee", "label": "Freshersworld GET jobs"},
+    {"name": "TimesJobs", "url": "https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&txtKeywords=graduate+engineer+trainee", "label": "TimesJobs GET jobs"},
+    {"name": "Foundit", "url": "https://www.foundit.in/srp/results?query=graduate%20engineer%20trainee", "label": "Foundit GET jobs"},
+    {"name": "Shine", "url": "https://www.shine.com/job-search/graduate-engineer-trainee-jobs", "label": "Shine GET jobs"},
+    {"name": "Hirist", "url": "https://www.hirist.tech/search/jobs-graduate-engineer-trainee", "label": "Hirist GET jobs"}
+  ],
+  "psu_sites": [
+    {"name": "ISRO", "url": "https://www.isro.gov.in/Careers.html", "label": "ISRO Careers"},
+    {"name": "DRDO", "url": "https://www.drdo.gov.in/drdo/careers", "label": "DRDO Careers"},
+    {"name": "BARC", "url": "https://www.barc.gov.in/careers/", "label": "BARC Careers"},
+    {"name": "NTPC", "url": "https://careers.ntpc.co.in/", "label": "NTPC Careers"},
+    {"name": "BHEL", "url": "https://careers.bhel.in/", "label": "BHEL Careers"},
+    {"name": "SAIL", "url": "https://sail.co.in/careers", "label": "SAIL Careers"},
+    {"name": "IOCL", "url": "https://iocl.com/latest-job-opening", "label": "IOCL Careers"},
+    {"name": "HAL", "url": "https://hal-india.co.in/en/Careers/", "label": "HAL Careers"}
+  ],
+  "mass_recruiters": [
+    {"name": "TCS NQT", "url": "https://www.tcs.com/what-we-do/careers/india/entry-level-jobs", "label": "TCS NQT / Entry Level"},
+    {"name": "Infosys", "url": "https://career.infosys.com/joblist", "label": "Infosys Careers"},
+    {"name": "Wipro Elite", "url": "https://careers.wipro.com/elitelaunch", "label": "Wipro Elite NLTH"},
+    {"name": "Cognizant GenC", "url": "https://careers.cognizant.com/global-en/jobs/", "label": "Cognizant GenC"},
+    {"name": "Accenture India", "url": "https://www.accenture.com/in-en/careers/jobsearch", "label": "Accenture India Careers"},
+    {"name": "Capgemini India", "url": "https://www.capgemini.com/in-en/careers/join-capgemini/job-search/", "label": "Capgemini Excelerate"},
+    {"name": "L&T Careers", "url": "https://www.larsentoubro.com/corporate/careers/", "label": "L&T Careers"},
+    {"name": "Tata Motors", "url": "https://www.tatamotors.com/careers/", "label": "Tata Motors Careers"}
+  ],
+  "india_locations": [
+    "india", "pune", "bangalore", "bengaluru", "gurugram", "gurgaon",
+    "vadodara", "hyderabad", "noida", "chennai", "mumbai", "delhi",
+    "nagpur", "coimbatore", "kochi", "jaipur", "ahmedabad", "lucknow",
+    "indore", "bhopal", "mysore", "mangalore", "visakhapatnam",
+    "vijayawada", "tiruchirappalli", "madurai", "thiruvananthapuram",
+    "kolkata", "jamshedpur", "ranchi", "bhilai", "bokaro", "durgapur",
+    "remote", "anywhere", "work from home", "worldwide", "global",
+    "apac", "asia pacific"
+  ]
+}

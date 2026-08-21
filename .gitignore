@@ -1,0 +1,6 @@
+.env
+seen_jobs.json
+__pycache__/
+*.pyc
+jobs_export.csv
+get_jobs_export.csv
